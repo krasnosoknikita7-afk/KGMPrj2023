@@ -1,0 +1,3 @@
+internal class CubeModelingTransitionTable : StateTransitionTable
+{
+}
